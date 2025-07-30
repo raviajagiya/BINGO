@@ -1,0 +1,7 @@
+#for run pip install -r requirements-dev.txt
+
+fastapi
+uvicorn
+pytest
+httpx
+pytest-asyncio
